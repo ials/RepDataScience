@@ -1,4 +1,4 @@
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/reproducible-data-science) [![View Book](https://img.shields.io/badge/Book-View%20Book-red?style=plastic&logo=book)](https://ials.github.io/RepDataScience)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ials/RepDataScience) [![View Book](https://img.shields.io/badge/Book-View%20Book-red?style=plastic&logo=book)](https://ials.github.io/RepDataScience/README.html)
 # Build a Reproducible and Maintainable Data Science Project
 
 As data science projects increase in requirements, such as reliability, maintainability, and scalability, the complexity of projects increases significantly.
